@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "MeuTodo2.Controllers.TodoController",
+    "Method": "GetAsync",
+    "RelativePath": "v1/todos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MeuTodo2.Controllers.TodoController",
+    "Method": "PostAsync",
+    "RelativePath": "v1/todos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "MeuTodo2.Model.DTO.CreateTodoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MeuTodo2.Controllers.TodoController",
+    "Method": "GetByIdAsync",
+    "RelativePath": "v1/todos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MeuTodo2.Controllers.TodoController",
+    "Method": "PutAsync",
+    "RelativePath": "v1/todos/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "MeuTodo2.Model.DTO.ChangeTodoDTO",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MeuTodo2.Controllers.TodoController",
+    "Method": "DeleteAsync",
+    "RelativePath": "v1/todos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

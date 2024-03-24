@@ -41,6 +41,8 @@ namespace MeuTodo2.Controllers
                 Date = DateTime.Now,
                 Done = false,
                 Title = model.Title,
+                TargetEnd = model.TargetEnd,
+                Description = model.Description
             };
 
             try
@@ -76,6 +78,8 @@ namespace MeuTodo2.Controllers
 
                 todo.Title = model.Title;
                 todo.Done = model.Done;
+                todo.TargetEnd = model.TargetEnd;
+                todo.Description = model.Description;
 
                 context.MeuTodos.Update(todo);
                 await context.SaveChangesAsync();

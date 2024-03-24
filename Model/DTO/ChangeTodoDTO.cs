@@ -9,5 +9,9 @@ namespace MeuTodo2.Model.DTO
 
         [Required]
         public bool Done { get; set; }
+        public DateTime TargetEnd { get; set; }
+
+        [Required]
+        public string Description { get; set; }
     }
 }

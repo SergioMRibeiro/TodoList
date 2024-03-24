@@ -111,6 +111,7 @@ C:\ProjetosDev\DotNet Learning Projects\MeuTodo2\obj\Debug\net8.0\MeuTodo2.Assem
 C:\ProjetosDev\DotNet Learning Projects\MeuTodo2\obj\Debug\net8.0\MeuTodo2.csproj.CoreCompileInputs.cache
 C:\ProjetosDev\DotNet Learning Projects\MeuTodo2\obj\Debug\net8.0\MeuTodo2.MvcApplicationPartsAssemblyInfo.cs
 C:\ProjetosDev\DotNet Learning Projects\MeuTodo2\obj\Debug\net8.0\MeuTodo2.MvcApplicationPartsAssemblyInfo.cache
+C:\ProjetosDev\DotNet Learning Projects\MeuTodo2\obj\Debug\net8.0\MeuTodo2.sourcelink.json
 C:\ProjetosDev\DotNet Learning Projects\MeuTodo2\obj\Debug\net8.0\staticwebassets.build.json
 C:\ProjetosDev\DotNet Learning Projects\MeuTodo2\obj\Debug\net8.0\staticwebassets.development.json
 C:\ProjetosDev\DotNet Learning Projects\MeuTodo2\obj\Debug\net8.0\staticwebassets\msbuild.MeuTodo2.Microsoft.AspNetCore.StaticWebAssets.props
